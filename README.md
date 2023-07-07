@@ -2,6 +2,7 @@
 Share your images and edit them at same place. 
 What is included:
     image sharing
+    download images
     approval by admmin
     editor: Crop, Rotate, Resize, Round, Color, Text, Draw, Filter, Shapes, Stickers
     view images of other users
